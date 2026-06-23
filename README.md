@@ -1,5 +1,6 @@
 pulseEXE
 
+(download from our website https://pulseEXE.netlify.app)
 
 A lightweight and powerful Roblox executor built specifically for iOS devices. Designed and developed entirely on iPhone, with a focus on performance, stability, and a clean user experience.
 
